@@ -33,7 +33,7 @@ public class GameScreen extends Screen {
   Button readyButton;
   Button readyMenuButton;
 
-  // TODO: Update x and y when I can decide on a calculation for percentage.
+  // 20 pixels from each edge.
   Button pauseButton = new Button(20, 20, Assets.pauseButton);
 
   int invBorderTop = pauseButton.getY() + (pauseButton.getHeight() - Assets.invBorder.getHeight())
