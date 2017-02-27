@@ -33,7 +33,7 @@ public class GameScreen extends Screen {
   Button readyButton;
   Button readyMenuButton;
 
-  // 20 pixels from each edge.
+  // 20 pixels from the left and top edges.
   Button pauseButton = new Button(20, 20, Assets.pauseButton);
 
   int invBorderTop = pauseButton.getY() + (pauseButton.getHeight() - Assets.invBorder.getHeight())
