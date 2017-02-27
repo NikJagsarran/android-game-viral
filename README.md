@@ -1,4 +1,4 @@
-# viralAndroidGame
+# Android Game Viral
 Code for my Android game, Viral.
 https://play.google.com/store/apps/details?id=com.prosus.androidgames.viral
 
